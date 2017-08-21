@@ -118,8 +118,10 @@ Lift the TEM screen and switch from EELS to EFTEM mode in DM, but remain in STEM
 |150 um|77.1 mrad        |
 |70 um |36.0 mrad        |
 
+
 #### Collection angles:
 With 70 um C2 and 36mm CL:
+
 |C2    |Camera Length    | Collection angle|
 |:----:|:---------------:|:---------------:|
 |70 um |38 mm            |26.6             |
